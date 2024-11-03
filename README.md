@@ -7,7 +7,6 @@
 
 - 📫 Bana nasıl ulaşabilirsiniz **alptascix@gmail.com**
 
-<h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
 </p>
 
