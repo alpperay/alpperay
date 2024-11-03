@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alp Eray Taşçı</h1>
-<h3 align="center">Front-end Developer</h3>
+<h3 align="center">Junior Software Developer</h3>
 
 - 🔭 I’m currently working as a **student**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native & JavaScript**
 
 - 📫 How to reach me **alptascix@gmail.com**
 
