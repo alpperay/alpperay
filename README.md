@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
+- 🔭 I’m currently working on **React Native in Login App**
+
 - 📫 How to reach me **alptascix@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
