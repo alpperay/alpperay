@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 🔭 I’m currently working on **?**
+- 🔭 I’m currently working on **-**
 
 - 📫 How to reach me **alptascix@gmail.com**
 
