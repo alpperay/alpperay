@@ -1,12 +1,12 @@
 
-<h1 align="center">Merhaba 👋, ben Alp Eray Taşçı</h1>
-<h3 align="center">Türkiye'den tutkulu bir ön uç geliştiricisi</h3>
+<h1 align="center">Hello 👋, I'm Alp Eray Taşçı</h1>
+<h3 align="center">A passionate front-end developer from Turkey</h3>
 
-- 🔭 Şu anda **öğrenci** olarak çalışıyorum
+- 🔭 I'm currently working as a **student**
 
-- 🌱 Şu anda **JavaScript,PHP** öğreniyorum
+- 🌱 I'm currently learning **JavaScript,PHP**
 
-- 📫 Bana nasıl ulaşabilirsiniz **alperaytasci@gmail.com**
+- 📫 How can you reach me **alperaytasci@gmail.com**
 
 ## Contact Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alperaytasci) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alperaytasci) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alperaytasci@gmail.com) 
