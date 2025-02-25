@@ -8,7 +8,7 @@
 
 - 📫 How can you reach me **alperaytasci@gmail.com**
 
-## Contact Me:
+## Contact with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alperaytasci)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alperaytasci@gmail.com) 
 
