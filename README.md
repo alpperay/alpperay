@@ -9,7 +9,7 @@
 - 📫 How can you reach me **alperaytasci@gmail.com**
 
 ## Contact with Me:
-<a href="mailto:alperaytasci@gmail.com>"<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+[![email]"<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"](mailto:alperaytasci@gmail.com)/>
 <a href="https://instagram.com/alperaytasci><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
  
 
