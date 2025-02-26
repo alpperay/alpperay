@@ -9,12 +9,13 @@
 - 📫 How can you reach me **alperaytasci@gmail.com**
 
 ## Contact with Me:
-<a href="mailto:alperaytasci@gmail.com" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
+<a href="mailto:alperaytasci@gmail.com">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
 </a>
-<a href="https://instagram.com/alperaytasci" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alperaytasci" height="40" width="52" />
+<a href="https://instagram.com/alperaytasci" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alperaytasci" height="40" width="52" />
 </a>
+
  
 
 ## Languages ​​and Tools:
