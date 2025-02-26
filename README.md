@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm Alp Eray Taşçı</h1>
-<h3 align="center">A passionate front-end developer from Turkey</h3>
+<h3 align="center">A passionate Front-end Developer from Turkey</h3>
 
 - 🔭 I'm currently working as a **student**
 
