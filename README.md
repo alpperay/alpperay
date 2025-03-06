@@ -14,7 +14,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="52" height="40" alt="Gmail Logo">
 </a>
 
-
 <a href="https://instagram.com/alperaytasci" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40"   alt="instagram logo"  />
 </a>
