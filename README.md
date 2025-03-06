@@ -11,11 +11,12 @@
 ## Contact with Me:
 
 <a href="mailto:alperaytasci@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="52" height="40" alt="Gmail Logo">
 </a>
 
+
 <a href="https://instagram.com/alperaytasci" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="52" height="40" alt="Instagram Logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40"   alt="instagram logo"  />
 </a>
 
 ## Languages ​​and Tools:
