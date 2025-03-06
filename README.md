@@ -9,11 +9,11 @@
 - 📫 How can you reach me **alperaytasci@gmail.com**
 
 ## Contact with Me:
-<a href="https://instagram.com/alperaytasci" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</a>
 <a href="mailto:alperaytasci@gmail.com">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</a>
+<a href="https://instagram.com/alperaytasci" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </a>
 
  
