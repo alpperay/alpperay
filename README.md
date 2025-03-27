@@ -10,7 +10,6 @@
 
 ## Contact with Me:
 
-<p align="center">
   <a href="mailto:alperaytasci@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail Logo" width="50">
   </a>
@@ -20,7 +19,7 @@
   </a>
 
   <a href="https://instagram.com/alperaytasci" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram Logo" width="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram Logo" width="50">
   </a>
 </p>
 
