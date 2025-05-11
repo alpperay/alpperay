@@ -34,7 +34,5 @@
 </div>
 
 <br>
-<br>
-
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=alpperay)
 
