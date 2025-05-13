@@ -7,8 +7,8 @@
   - 📫 How can you reach me **alperaytasci@gmail.com**
 </div>
 
-<div align="center">
 ## Contact with Me:
+<div align="center">
   
 <a href="mailto:alperaytasci@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/>
@@ -23,8 +23,8 @@
 </a>
 </div>
 
-<div align="center">
 ## Languages ​​and Tools:
+<div align="center">
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&text-decoration=none) 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&text-decoration=none) 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&text-decoration=none) 
