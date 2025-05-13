@@ -6,7 +6,8 @@
   <br>
   - 🌱 I'm currently learning <b>JavaScript, PHP, React Native, ASP.NET MVC</b>
   <br>
-  - 📫 How can you reach me <b>alperaytasci@gmail.com</b>
+  - 📫 How can you reach me
+<a href="mailto:alperaytasci@gmail.com"> alperaytasci@gmail.com</a>
 </div>
 
 <h1 align="center">Contact with Me:</h1>
