@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front-end Developer from Turkey</h3>
 
 <div align="center">
-  - 🔭 I'm currently working as a **<b>student</b>**
+  - 🔭 I'm currently working as a <b>student</b>
   <br>
   - 🌱 I'm currently learning <b>JavaScript, PHP, React Native, ASP.NET MVC</b>
   <br>
