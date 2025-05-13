@@ -3,11 +3,13 @@
 
 <div align="center">
   - 🔭 I'm currently working as a **student**
+  <br>
   - 🌱 I'm currently learning **JavaScript, PHP, React Native, ASP.NET MVC**
+  <br>
   - 📫 How can you reach me **alperaytasci@gmail.com**
 </div>
 
-## Contact with Me:
+<h1 align="center">Contact with Me:</h1>
 <div align="center">
   
 <a href="mailto:alperaytasci@gmail.com" target="_blank">
@@ -23,7 +25,7 @@
 </a>
 </div>
 
-## Languages ​​and Tools:
+<h1 align="center">Languages ​​and Tools:</h1>
 <div align="center">
   
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&text-decoration=none) 
