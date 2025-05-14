@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Alp Eray Taşçı</h1>
 <h3 align="center">A passionate Front-end Developer from Turkey</h3>
 
-<div align="center">
+<div align="left">
   - 🔭 I'm currently working as a <b>student</b>
   <br>
   - 🌱 I'm currently learning <b>JavaScript, PHP, React Native, ASP.NET MVC</b>
@@ -11,7 +11,7 @@
 </div>
 
 <h1 align="center">Contact with Me:</h1>
-<div align="center">
+<div align="left">
   
 <a href="mailto:alperaytasci@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/>
@@ -39,13 +39,13 @@
 
 </div>
 
-<div align="center">
+<div align="left">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alpperay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <br>
-<div align="center">
+<div align="left">
   
   ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=alpperay)
 </div>
