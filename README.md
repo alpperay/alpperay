@@ -10,7 +10,7 @@
 <a href="mailto:alperaytasci@gmail.com"> alperaytasci@gmail.com</a>
 </div>
 
-**Contact with Me:**
+<h1>Contact with Me</h1>
 <div align="left">
   
 <a href="mailto:alperaytasci@gmail.com" target="_blank">
