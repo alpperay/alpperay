@@ -10,7 +10,7 @@
 <a href="mailto:alperaytasci@gmail.com"> alperaytasci@gmail.com</a>
 </div>
 
-<h1>Contact with Me</h1>
+<h1>Contact with Me:</h1>
 <div align="left">
   
 <a href="mailto:alperaytasci@gmail.com" target="_blank">
@@ -26,7 +26,7 @@
 </a>
 </div>
 
-<h1>Languages ​​and Tools</h1>
+<h1>Languages ​​and Tools:</h1>
 <div align="left">
   
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&text-decoration=none) 
