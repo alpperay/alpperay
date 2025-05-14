@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Alp Eray Taşçı</h1>
 <h3 align="center">A passionate Front-end Developer from Turkey</h3>
 
-<div align="left">
+<div align="center">
   - 🔭 I'm currently working as a <b>student</b>
   <br>
   - 🌱 I'm currently learning <b>JavaScript, PHP, React Native, ASP.NET MVC</b>
