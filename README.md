@@ -1,13 +1,10 @@
 <h1 align="center">Hello 👋, I'm Alp Eray Taşçı</h1>
 <h3 align="center">A passionate Front-end Developer from Turkey</h3>
 
-<div align="left">
-  - 🔭 I'm currently working as a <b>student</b>
-  <br>
-  - 🌱 I'm currently learning <b>JavaScript, PHP, React Native, ASP.NET MVC</b>
-  <br>
+  -🔭 I'm currently working as a **student**
+  - 🌱 I'm currently learning **JavaScript, PHP, React Native, ASP.NET MVC**
   - 📫 How can you reach me
-<a href="mailto:alperaytasci@gmail.com"> alperaytasci@gmail.com</a>
+<a href="mailto:alperaytasci@gmail.com">alperaytasci@gmail.com</a>
 </div>
 
 <h1>Contact with Me:</h1>
