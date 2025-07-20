@@ -33,8 +33,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&text-decoration=none) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&text-decoration=none) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&text-decoration=none)
-![ASP.NET MVC](<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/58c31597-08e4-446f-94b2-f9a54fb26952" />
-)
+![ASP.NET MVC](https://www.google.com/imgres?q=asp%20net&imgurl=https%3A%2F%2Fwww.nuget.org%2Fprofiles%2Faspnet%2Favatar%3FimageSize%3D512&imgrefurl=https%3A%2F%2Fwww.nuget.org%2Fprofiles%2Faspnet&docid=5ksbEdb43Xb31M&tbnid=Fy4r2TO79Er6BM&vet=12ahUKEwi8g6T_28uOAxXAFBAIHQn4MJMQM3oECBoQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwi8g6T_28uOAxXAFBAIHQn4MJMQM3oECBoQAA)
 
 </div>
 
