@@ -33,6 +33,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&text-decoration=none) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&text-decoration=none) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&text-decoration=none)
+![ASP.NET MVC](<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/58c31597-08e4-446f-94b2-f9a54fb26952" />
+)
 
 </div>
 
