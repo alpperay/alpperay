@@ -44,7 +44,9 @@
 
 <br>
 <div align="left">
-  
+
   ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=alpperay)
+
 </div>
+
 
