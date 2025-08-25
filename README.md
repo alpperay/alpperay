@@ -45,7 +45,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alpperay&show_icons=true&theme=dark&locale=en&layout=compact" alt="alpperay" /></p>
 
-&nbsp;
+<p>&nbsp;</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alpperay&show_icons=true&theme=dark&locale=en" alt="alpperay" /></p>
 
