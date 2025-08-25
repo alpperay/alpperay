@@ -5,7 +5,6 @@
 - 🌱 I'm currently learning **JavaScript, PHP, React Native, React, ASP.NET MVC**  
 - 📫 You can reach me at: <a href="mailto:alperaytasci@gmail.com">alperaytasci@gmail.com</a>  
 
----
 
 ### 📬 Contact with Me
 
