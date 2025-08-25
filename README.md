@@ -5,7 +5,7 @@
  
 - 🌱 I'm currently learning **JavaScript, PHP, React Native, React, ASP.NET MVC**
  
-- 📫 How to reach me <a href="mailto:alperaytasci@gmail.com">alperaytasci@gmail.com</a>  
+- 📫 How to reach me <a href="mailto:alperaytasci@gmail.com">**alperaytasci@gmail.com**</a>  
 
 
 ### 📬 Contact with Me
