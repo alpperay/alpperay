@@ -8,7 +8,7 @@
 - 📫 How to reach me <a href="mailto:alperaytasci@gmail.com">**alperaytasci@gmail.com**</a>  
 
 
-### 📬 Contact with Me
+### Contact with Me
 
 <p align="left">
   <a href="mailto:alperaytasci@gmail.com" target="_blank">
@@ -23,7 +23,7 @@
 </p>
 
 
-### 🛠 Languages & Tools
+### Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
+
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alpperay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
