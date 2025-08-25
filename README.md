@@ -48,6 +48,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alpperay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </p>
 
+### GitHub Stats
+
+<p align="left">
+  <img src="https://img.shields.io/github/last-commit/alpperay" alt="Last Commit" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/contributors/alpperay" alt="Contributors" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/alpperay" alt="Stars" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/forks/alpperay" alt="Forks" />
+</p>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=alpperay" alt="Profile views counter" />
