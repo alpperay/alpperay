@@ -1,8 +1,10 @@
 <h1 align="center">Hello 👋, I'm Alp Eray Taşçı</h1>
 <h3 align="center">A passionate Front-end Developer from Turkey</h3>
 
-- 🔭 I'm currently working as a **student**  
-- 🌱 I'm currently learning **JavaScript, PHP, React Native, React, ASP.NET MVC**  
+- 🔭 I'm currently working as a **student**
+ 
+- 🌱 I'm currently learning **JavaScript, PHP, React Native, React, ASP.NET MVC**
+ 
 - 📫 You can reach me at: <a href="mailto:alperaytasci@gmail.com">alperaytasci@gmail.com</a>  
 
 
