@@ -18,10 +18,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
   </a>
   <a href="https://instagram.com/alperaytasci" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="Instagram logo" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram logo" />
   </a>
 </p>
-
 
 ### Languages & Tools
 
