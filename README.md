@@ -11,14 +11,16 @@
 ### Contact with Me
 
 <p align="left">
-  <a href="https://instagram.com/alperaytasci" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram logo" />
+  <a href="https://instagram.com/alperaytasci" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram logo"/>
   </a>
-  <a href="https://www.linkedin.com/in/alperaytasci" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" style="margin-left:20;"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/alperaytasci" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo"/>
   </a>
-  <a href="mailto:alperaytasci@gmail.com" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Gmail logo" style="margin-left:20;"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:alperaytasci@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Gmail logo"/>
   </a>
 </p>
 
