@@ -2,11 +2,12 @@
 <h3 align="center">A passionate Front-end Developer from Turkey</h3>
 
   - 🔭 I'm currently working as a **student**
-  <br>
+ 
   - 🌱 I'm currently learning **JavaScript, PHP, React Native, React, ASP.NET MVC**
-  <br>
+
   - 📫 How can you reach me
 <a href="mailto:alperaytasci@gmail.com">alperaytasci@gmail.com</a>
+
 </div>
 
 <h3>Contact with Me:</h3>
