@@ -43,8 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" border="0"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alpperay&show_icons=true&locale=en" alt="alpperay" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alpperay&" alt="alpperay" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alpperay&show_icons=true&locale=en" alt="alpperay" /></p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=alpperay" alt="Profile views counter" />
