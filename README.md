@@ -43,7 +43,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alpperay&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top languages" />
 </p>
 
-<div style="height:15px;"></div>
+<div style="height:10px;"></div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alpperay&show_icons=true&theme=dark&locale=en" alt="GitHub stats" />
