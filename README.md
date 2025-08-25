@@ -20,7 +20,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:alperaytasci@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Gmail logo" border="0"/>
+    <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" alt="Gmail logo" border="0"/>
   </a>
 </p>
 
