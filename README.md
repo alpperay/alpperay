@@ -21,7 +21,6 @@
   </a>
 </p>
 
----
 
 ### 🛠 Languages & Tools
 
@@ -35,7 +34,6 @@
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
----
 
 ### 📊 GitHub Stats
 
@@ -43,7 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alpperay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </p>
 
----
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=alpperay" alt="Profile views counter" />
