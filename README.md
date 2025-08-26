@@ -40,7 +40,7 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alpperay&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top languages" />
-<br/><br/>
+<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=alpperay&show_icons=true&theme=dark&locale=en" alt="GitHub stats" />
 
 <p align="left">
