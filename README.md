@@ -5,8 +5,9 @@
 - 🌱 I'm currently learning **JavaScript, PHP, React Native, React, ASP.NET MVC**
 - 📫 How to reach me <a href="mailto:alperaytasci@gmail.com">**alperaytasci@gmail.com**</a>  
 
-### Contact Me
-<p align="center">
+### Contact with Me
+
+<p align="left">
   <a href="https://instagram.com/alperaytasci" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram logo"/>
   </a>
@@ -21,11 +22,12 @@
 </p>
 
 ### Languages & Tools
-<p align="center">
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native"/>
@@ -37,18 +39,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
 </p>
 
-<div align="center">
-  <h3>Top Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alpperay&show_icons=true&theme=dark&locale=en&layout=compact" 
-       alt="Top languages" 
-       style="border-radius:15px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);" />
-  <br/><br/>
-  <h3>GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=alpperay&show_icons=true&theme=dark&locale=en" 
-       alt="GitHub stats" 
-       style="border-radius:15px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alpperay&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top languages" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=alpperay&show_icons=true&theme=dark&locale=en" alt="GitHub stats" />
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=alpperay" alt="Profile views counter" />
 </p>
