@@ -40,9 +40,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alpperay&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top languages" width="400"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=alpperay&show_icons=true&theme=dark&locale=en" alt="GitHub stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alpperay&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top languages" width="300"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=alpperay&show_icons=true&theme=dark&locale=en" alt="GitHub stats" width="350"/>
 </p>
 
 <p align="left">
