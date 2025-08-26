@@ -39,11 +39,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alpperay&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top languages" width="300"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=alpperay&show_icons=true&theme=dark&locale=en" alt="GitHub stats" width="350"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alpperay&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top languages" />
+    </td>
+    <td width="50">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=alpperay&show_icons=true&theme=dark&locale=en" alt="GitHub stats" />
+    </td>
+  </tr>
+</table>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=alpperay" alt="Profile views counter" />
