@@ -2,7 +2,9 @@
 <h3 align="center">A passionate Front-end Developer from Turkey</h3>
 
 - 🔭 I'm currently working as a **student**
+
 - 🌱 I'm currently learning **JavaScript, PHP, React Native, React, ASP.NET MVC**
+
 - 📫 How to reach me <a href="mailto:alperaytasci@gmail.com">**alperaytasci@gmail.com**</a>  
 
 ### Contact with Me
