@@ -11,15 +11,15 @@
 
 <p align="left">
   <a href="https://instagram.com/alperaytasci" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram logo"/>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" alt="Instagram logo"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/alperaytasci" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn logo"/>
   </a>
   &nbsp;
   <a href="mailto:alperaytasci@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" alt="Gmail logo"/>
+    <img src="https://cdn.simpleicons.org/gmail/D14836" height="30" alt="Gmail logo"/>
   </a>
 </p>
 
