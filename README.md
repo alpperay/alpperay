@@ -11,7 +11,6 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/alperaytasci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alperaytasci" width="35" height="35"/></a>
-  &nbsp;
   <a href="mailto:alperaytasci@gmail.com" target="_blank">
     <img src="https://cdn.simpleicons.org/gmail/D14836" width="35" height="35" alt="Gmail logo"/>
   </a>
