@@ -15,8 +15,8 @@
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/alperaytasci" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="35" alt="LinkedIn logo"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" alt="LinkedIn logo"/>
+</a>
   &nbsp;
   <a href="mailto:alperaytasci@gmail.com" target="_blank">
     <img src="https://cdn.simpleicons.org/gmail/D14836" height="35" alt="Gmail logo"/>
