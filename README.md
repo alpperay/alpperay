@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Alp Eray Taşçı</h1>
+<h1 align="center">Hi 👋, I'm Alp Eray Taşçı</h1>
 <h3 align="center">A passionate Front-end Developer from Turkey</h3>
 
 - 💼  I'm currently working as an IT Intern at **Cengiz Holding**
