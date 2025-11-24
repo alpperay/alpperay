@@ -3,6 +3,8 @@
 
 - 💼  I'm currently working as an IT Intern at **Cengiz Holding**
 
+- 🔭 I’m currently working as a **intern projects.**
+
 - 🌱  I'm currently learning **JavaScript, PHP, React Native, React, ASP.NET MVC**
 
 - 📫  How to reach me <a href="mailto:alperaytasci@gmail.com">**alperaytasci@gmail.com**</a>  
