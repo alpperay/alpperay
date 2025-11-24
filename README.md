@@ -3,7 +3,7 @@
 
 - 💼  I'm currently working as an IT Intern at **Cengiz Holding**
 
-- 🔭 I’m currently working as a **intern projects.**
+- 🔭 I’m currently working on various projects as an **intern**.
 
 - 🌱  I'm currently learning **JavaScript, PHP, React Native, React, ASP.NET MVC**
 
