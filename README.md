@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alp Eray Taşçı</h1>
 <h3 align="center">A passionate Front-end Developer from Turkey</h3>
 
-- 💼  I'm currently working as an IT Intern at **Cengiz Holding**
-
 - 🔭 I’m currently working on various projects as an **intern**.
 
 - 🌱  I'm currently learning **JavaScript, PHP, React Native, React, ASP.NET MVC**
