@@ -23,9 +23,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
 </p>
-
-
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=alpperay" alt="Profile views counter" />
-</p>
