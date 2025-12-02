@@ -24,9 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alpperay&show_icons=true&theme=dark&locale=en&layout=compact" alt="alpperay" /></p>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=alpperay&show_icons=true&theme=dark&locale=en" alt="GitHub stats" />
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=alpperay" alt="Profile views counter" />
