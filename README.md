@@ -5,11 +5,6 @@
 
 - 🌱  I'm currently learning **JavaScript, PHP, React Native, React, ASP.NET MVC**
 
-### Contact with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/alperaytasci" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alperaytasci" width="35" height="35"/></a>
-
 ### Languages & Tools
 
 <p align="left">
