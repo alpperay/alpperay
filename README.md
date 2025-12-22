@@ -5,6 +5,8 @@
 
 - 🌱  I'm currently learning **JavaScript, PHP, React Native, React, ASP.NET MVC**
 
+- 📫 How to reach me **alperaytasci@gmail.com**
+
 ### Languages & Tools
 
 <p align="left">
