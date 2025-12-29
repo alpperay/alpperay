@@ -31,5 +31,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alpperay&show_icons=true&locale=en&layout=compact" alt="alpperay" /></p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=alpperay&layout=compact&langs_count=8&theme=default"
+    alt="Top Languages"
+  />
+</p>
 
