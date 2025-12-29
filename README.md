@@ -19,17 +19,6 @@
     />
   </a>
 
-  <a href="mailto:alperaytasci@gmail.com">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
-      alt="Email"
-      height="30"
-      width="40"
-    />
-  </a>
-</p>
-
 ### Languages & Tools
 
 <p align="left">
