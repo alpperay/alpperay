@@ -9,9 +9,26 @@
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://linkedin.com/in/alperaytasci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-  generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/alperaytasci" height="30" width="40" /></a>
-</p>
+  <a href="https://linkedin.com/in/alperaytasci" target="_blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      height="30"
+      width="40"
+    />
+  </a>
 
+  <a href="mailto:alperaytasci@gmail.com">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+      alt="Email"
+      height="30"
+      width="40"
+    />
+  </a>
+</p>
 
 ### Languages & Tools
 
