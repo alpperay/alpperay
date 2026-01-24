@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alp Eray Taşçı</h1>
 <h3 align="center">A passionate Software Developer from Turkey</h3>
 
-- 🔭 I’m currently working as an **student**.
+- 🔭 I’m currently working as a **student**.
 
 - 🌱  I'm currently learning **JavaScript, PHP, React Native, React, ASP.NET MVC**
 
